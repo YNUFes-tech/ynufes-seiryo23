@@ -90,7 +90,7 @@
     font-size: min(10vh, 40vw);
     text-align: center;
     width: 100vh;
-    color: #fffdf5;
+    color: #f6f4f0;
     user-select: none;
     font-family: "Konkhmer Sleokchher", cursive;
   }
