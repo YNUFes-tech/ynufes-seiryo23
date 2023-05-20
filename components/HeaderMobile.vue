@@ -169,7 +169,7 @@ const close = () => {
 }
 
 a.router-link-active {
-  font-size: 2rem;
+  font-size: 1.8em;
   font-weight: bold;
   text-decoration: none;
   color: #594e4e;
